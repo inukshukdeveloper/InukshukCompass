@@ -1,0 +1,11 @@
+framework module InukshukCompass {
+  umbrella header "InukshukCompass.h"
+
+  export *
+  module * { export * }
+}
+
+module InukshukCompass.Swift {
+    header "InukshukCompass-Swift.h"
+    requires objc
+}
