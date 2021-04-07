@@ -8,7 +8,7 @@ The Inukshuk compass is an animated view that simulates a magnetic compass.  The
 
 ## Installing the Compass
 
-The compass is available as a Swift package.  To install in Xcode, select File->Swift Packages->Add Package Dependency.
+The compass is distributed as a binary framework in a Swift package.  To install in Xcode, select File->Swift Packages->Add Package Dependency.
 
 ## Class Reference
 
