@@ -6,6 +6,8 @@ Swift Package to add an animated compass view to an iOS app.
 
 The Inukshuk compass is an animated view that simulates a magnetic compass.  The view accomdates two parameters to set the angle of rotation and a duration for the animation.
 
+![alt-text](https://github.com/inukshukdeveloper/InukshukCompass/blob/main/Compass%20and%20Odometer.gif)
+
 ## Installing the Compass
 
 The compass is distributed as a binary framework in a Swift package.  To install in Xcode, select File->Swift Packages->Add Package Dependency.
