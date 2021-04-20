@@ -8,6 +8,8 @@ The Inukshuk compass is an animated view that simulates a magnetic compass.  The
 
 ![alt-text](https://github.com/inukshukdeveloper/InukshukCompass/blob/main/Compass%20and%20Odometer.gif)
 
+(note: animation shows compass with the odometer which is a separate module)
+
 ## Installing the Compass
 
 The compass is distributed as a binary framework in a Swift package.  To install in Xcode, select File->Swift Packages->Add Package Dependency.
