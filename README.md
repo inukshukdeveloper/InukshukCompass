@@ -8,7 +8,7 @@ The Inukshuk compass is an animated view that simulates a magnetic compass.  The
 
 ![alt-text](https://github.com/inukshukdeveloper/InukshukCompass/blob/main/Compass%20and%20Odometer.gif)
 
-(note: animation shows compass with the odometer which is a separate module)
+(note: animation shows the compass with the odometer which is a separate module)
 
 ## Installing the Compass
 
